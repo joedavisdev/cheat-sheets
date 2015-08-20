@@ -1,0 +1,7 @@
+= Linux
+
+== Remote machines
+
+|==============================================
+|http://linux.die.net/man/1/ssh-copy-id[ssh-copy-id user@target] |Install your public key in a remote machine's authorized_keys
+|==============================================

@@ -1,0 +1,7 @@
+= Vim
+
+== Refactoring
+
+|==============================================
+|=i{ |Reindent all code blocks and sub-blocks from the cursor position.
+|==============================================
