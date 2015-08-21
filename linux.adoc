@@ -3,7 +3,7 @@
 == File manipulation
 
 |==============================================
-|http://joemaller.com/823/quick-note-about-seds-edit-in-place-option/[sed -i '' -e's/apples/oranges/' file.txt] |Find and replace text in a file. _-i ''_ tells said that we want to make the change in-place instead of writing the result to a new file
+|http://joemaller.com/823/quick-note-about-seds-edit-in-place-option/[sed -i -e's/apples/oranges/' file.txt] |Find and replace text in a file. -i tells sed that we want to make the change in-place instead of writing the result to a new file
 |==============================================
 
 == Remote machines
