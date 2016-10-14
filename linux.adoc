@@ -11,3 +11,9 @@
 |==============================================
 |http://linux.die.net/man/1/ssh-copy-id[ssh-copy-id user@target] |Install your public key in a remote machine's authorized_keys
 |==============================================
+
+== File pipling
+
+|==============================================
+http://www.computerhope.com/unix/utee.htm[<command> \| tee <output.txt>] |Always prefer tee to > to pipe stdout to a file. It writes to file while also printing to standard out. Super useful for builds where you want to see progress but also want to have a log to hand to dig through
+|==============================================
